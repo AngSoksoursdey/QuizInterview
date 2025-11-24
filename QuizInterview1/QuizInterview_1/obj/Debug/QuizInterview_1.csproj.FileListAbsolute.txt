@@ -1,0 +1,15 @@
+D:\Interview\QuizInterview_1\QuizInterview_1\bin\Debug\QuizInterview_1.exe.config
+D:\Interview\QuizInterview_1\QuizInterview_1\bin\Debug\QuizInterview_1.exe
+D:\Interview\QuizInterview_1\QuizInterview_1\bin\Debug\QuizInterview_1.pdb
+D:\Interview\QuizInterview_1\QuizInterview_1\obj\Debug\QuizInterview_1.csproj.AssemblyReference.cache
+D:\Interview\QuizInterview_1\QuizInterview_1\obj\Debug\QuizInterview_1.csproj.CoreCompileInputs.cache
+D:\Interview\QuizInterview_1\QuizInterview_1\obj\Debug\QuizInterview_1.exe
+D:\Interview\QuizInterview_1\QuizInterview_1\obj\Debug\QuizInterview_1.pdb
+D:\Interview\QUIZ\QuizInterview_1\QuizInterview_1\bin\Debug\QuizInterview_1.exe.config
+D:\Interview\QUIZ\QuizInterview_1\QuizInterview_1\bin\Debug\QuizInterview_1.exe
+D:\Interview\QUIZ\QuizInterview_1\QuizInterview_1\bin\Debug\QuizInterview_1.pdb
+D:\Interview\QUIZ\QuizInterview_1\QuizInterview_1\obj\Debug\QuizInterview_1.csproj.AssemblyReference.cache
+D:\Interview\QUIZ\QuizInterview_1\QuizInterview_1\obj\Debug\QuizInterview_1.exe.config
+D:\Interview\QUIZ\QuizInterview_1\QuizInterview_1\obj\Debug\QuizInterview_1.csproj.CoreCompileInputs.cache
+D:\Interview\QUIZ\QuizInterview_1\QuizInterview_1\obj\Debug\QuizInterview_1.exe
+D:\Interview\QUIZ\QuizInterview_1\QuizInterview_1\obj\Debug\QuizInterview_1.pdb

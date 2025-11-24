@@ -1,0 +1,7 @@
+D:\Interview\QuizInterview2\QuizInterview2\bin\Debug\QuizInterview2.exe.config
+D:\Interview\QuizInterview2\QuizInterview2\bin\Debug\QuizInterview2.exe
+D:\Interview\QuizInterview2\QuizInterview2\bin\Debug\QuizInterview2.pdb
+D:\Interview\QuizInterview2\QuizInterview2\obj\Debug\QuizInterview2.csproj.AssemblyReference.cache
+D:\Interview\QuizInterview2\QuizInterview2\obj\Debug\QuizInterview2.csproj.CoreCompileInputs.cache
+D:\Interview\QuizInterview2\QuizInterview2\obj\Debug\QuizInterview2.exe
+D:\Interview\QuizInterview2\QuizInterview2\obj\Debug\QuizInterview2.pdb
